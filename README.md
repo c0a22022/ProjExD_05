@@ -33,4 +33,4 @@
 * タイトル画面を実装するために「game_state」という変数を使い、ゲーム状態を管理している。
 
 #### 参考サイト
-[label](https://inomacreate.com/python-05-pazulgame/)
+[label](https://inomacreate.com/python-05-pazulgame/)【Python講座】Pythonで作るパズルゲーム#5_タイトルやゲームオーバー等を追加して完成させよう
